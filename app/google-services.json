@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57734237272",
+    "project_id": "gutz-notepad",
+    "storage_bucket": "gutz-notepad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57734237272:android:77ee96d5b3811f97fd8e2d",
+        "android_client_info": {
+          "package_name": "ca.gutz.gutznotepad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Re_sHvohrCgxJa5rQUQt-QlM1H3-4nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
